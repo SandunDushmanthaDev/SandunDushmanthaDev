@@ -1,4 +1,4 @@
-<img src="https://github.com/IroshanRathnayake/IroshanRathnayake/blob/main/banner.png"/>
+<!-- <img src="https://github.com/IroshanRathnayake/IroshanRathnayake/blob/main/banner.png"/> -->
 
 <div align="center">
 
