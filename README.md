@@ -44,8 +44,8 @@
 
 - 💻 Passionate about **Web Development, Software Development, Android Application Development, Game Application Development**
 - 👯 Looking to collaborate on: **Open Source Projects**
-- 🌱 I’m currently learning :  `Python`,`C`,`C++`,`C#`, `Laravel`,`Next.js`,`Angular`,`Express`,`Vite`,`PNPM`,`Gradle`,`Docker`,`Unity`,`MongoDB`
-- 💬 Ask me about: `HTML`,`CSS`,`PHP`,`Java`,`JavaScript`,`Hibanate`,`REACT`,`Node.js`,`MySQL`
+- 🌱 I’m currently learning : `C`,`C#`, `Laravel`,`Next.js`,`Angular`,`Express`,`Vite`,`PNPM`,`Gradle`,`Docker`,`Unity`
+- 💬 Ask me about: `HTML`,`CSS`,`PHP`,`Java`,`JavaScript`,`Hibanate`,`REACT`,`Node.js`,`MySQL`,`MongoDB`,`Python`,`C++`
 - 🌐 All of my projects are available **My Portfolio (Under Maintenance)**
 - 🌟 Goal: Join a **Top Global Tech Company**
 - 🧑‍🎓 I'm an Undergraduate at **Birmingham City University, UK**
