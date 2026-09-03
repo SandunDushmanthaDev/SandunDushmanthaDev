@@ -76,9 +76,9 @@
 
 | Title | Tool |
 | ------ | ------ |
-| 💻 **Languages** |  [![Programming Languages](https://skillicons.dev/icons?i=java,js,ts,php,python,c,cpp,cs&perline=20)](https://skillicons.dev) |
-| 🎨 **Frontend Technologies** |  [![Frameworks](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,jquery,nextjs,angular,materialui&perline=20)](https://skillicons.dev) |
-| 🚀 **Backend Technologies** | [![Frameworks](https://skillicons.dev/icons?i=nodejs,laravel,spring,express,hibernate&perline=20)](https://skillicons.dev) |
+| 💻 **Languages** |  [![Programming Languages](https://skillicons.dev/icons?i=java,js,html,php,python,cpp&perline=20)](https://skillicons.dev) |
+| 🎨 **Frontend Technologies** |  [![Frameworks](https://skillicons.dev/icons?i=react,tailwind,css,bootstrap,jquery&perline=20)](https://skillicons.dev) |
+| 🚀 **Backend Technologies** | [![Frameworks](https://skillicons.dev/icons?i=nodejs,spring,nextjs,hibernate&perline=20)](https://skillicons.dev) |
 | ⚙️ **Build Tools**| [![Build Tools](https://skillicons.dev/icons?i=maven,npm,vite,pnpm,gradle&perline=20)](https://skillicons.dev) |
 | 🗄️ **Databases** |  [![Databases](https://skillicons.dev/icons?i=mysql,mongodb&perline=20)](https://skillicons.dev) |
 | ☁️ **Cloud & DevOps**|  [![DevOps](https://skillicons.dev/icons?i=aws,docker,cloudflare,googlecloud,githubactions,gitlab&perline=20)](https://skillicons.dev) |
